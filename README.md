@@ -1,2 +1,3 @@
 # good-food
-Created with CodeSandbox
+
+An app to show some good food recommendations for different genere.
